@@ -1,0 +1,96 @@
+.card {
+  width: 37.5rem;
+  background-color: hsl(216, 50%, 16%);
+  padding: 2.4rem;
+}
+
+.cube {
+  width: 100%;
+  border-radius: 0.8rem;
+  margin-bottom: 2.4rem;
+}
+
+h1 {
+  color: #fff;
+  font-size: 2.2rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+}
+
+h1:hover {
+  color: #00fff8;
+}
+.description {
+  color: #8bacd9;
+  font-size: 1.8rem;
+  font-weight: 300;
+  line-height: 2.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.cripto-and-time {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1.6rem;
+}
+
+.eth-and-image {
+  display: flex;
+  gap: 1rem;
+}
+
+.eth-image {
+  width: 1.1rem;
+}
+
+.eth {
+  color: #00fff8;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.days-div {
+  display: flex;
+  gap: 1rem;
+}
+
+.clock {
+  width: 1.6rem;
+}
+
+.days {
+  color: #8bacd9;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+hr {
+  background: #2e405a;
+  margin-bottom: 1.6rem;
+}
+
+.profile-and-text {
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+}
+
+.profile {
+  width: 3.3rem;
+  border: 0.2rem solid white;
+  border-radius: 3.3rem;
+}
+
+.creation {
+  color: #8bacd9;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.name {
+  color: white;
+}
+
+.name:hover {
+  color: #00fff8;
+}
